@@ -58,7 +58,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
   g) p (description) h133px
   h) price: h 80px
   i) button container: h 96px
-  
+ 
+2) I figure it out the html
+3) 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
