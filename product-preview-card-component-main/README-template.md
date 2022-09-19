@@ -48,6 +48,17 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Built with
 
+1) first I found the proportions of the elements using Paint, 
+  a)  I screenshot the design and I added in a new file page on Paint of 1440px
+  b) I used a square to find the size of the card on the desktop: w: 602px h: 504px
+  c) the button size: w 241px h 53px
+  d) image and text are using half of the card.
+  e) "Perfurme box" h 70px
+  f) h1 (pergfume name) h: 123px
+  g) p (description) h133px
+  h) price: h 80px
+  i) button container: h 96px
+  
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
